@@ -1,13 +1,12 @@
+<?php
+$page_title = "Citation";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Home - INFO 2300</title>
-
-  <link rel="stylesheet" type="text/css" href="styles/site.css">
+<?php include ("includes/meta.php"); ?>
 </head>
 
 <body>
